@@ -2,4 +2,4 @@
 
 ## Homepage for the Chinese Ministry at Morningside Baptist Church
 
-### Template by HTML5 UP
+### Template by [HTML5 UP](https://html5up.net/)
